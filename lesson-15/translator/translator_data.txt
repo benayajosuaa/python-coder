@@ -1,0 +1,5 @@
+Pinjam/Borrow
+Mobil/Car
+Rumah/House
+Buku/Book
+Sekolah/School
